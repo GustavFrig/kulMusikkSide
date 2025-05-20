@@ -100,7 +100,7 @@ body {
     transform: translateX(20px);
     transition: 0.5s ease;
 }
-.gridcolumn3 > div:hover .vinyl {
+.sendeLink > div:hover .vinyl {
     transform: translateX(20px);
     transition: 0.5s ease;
 }
